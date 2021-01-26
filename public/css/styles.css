@@ -1,5 +1,5 @@
  /* globals  */
- body {
+body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   color: var(--baseColor);
@@ -131,8 +131,6 @@ h1 {
 .card-title img {
   margin-right: 5px;
 }
-
-
 
 
 .card-followers-number {
